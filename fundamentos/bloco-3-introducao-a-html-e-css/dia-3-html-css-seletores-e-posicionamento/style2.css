@@ -1,0 +1,22 @@
+h1 {
+ color: blue;
+ text-align: center;
+}
+
+p {
+    text-align: center;
+}
+
+ol{
+    background-color: aquamarine;
+}
+
+li:hover {
+    background-color: blue;
+}
+
+li:active{
+    color: white;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    
+}
