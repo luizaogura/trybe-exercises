@@ -1,0 +1,15 @@
+const a = 10;
+const b = 35;
+const c = 15;
+
+console.log("Os valores são:", a, "e", b, "e", c);
+
+if( a >= b && a > c){
+    console.log("O maior número é o:", a);
+}
+else if(b > a && b > c){
+    console.log("O maior número é o:", b);
+}
+else{
+    console.log("O maior número é o:", c);
+}
