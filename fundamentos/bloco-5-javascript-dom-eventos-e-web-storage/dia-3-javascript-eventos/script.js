@@ -70,3 +70,10 @@ function createButtonHoliday(buttonName){
 }
 createButtonHoliday('Feriados');
 
+/* Exercício 3:
+Implemente uma função que muda a cor de fundo dos dias que possuem a classe "holiday".
+Adicione ao botão "Feriados" um evento de "click" que altere a cor de fundo dos dias que possuem a classe "holiday" */
+
+function changeColorHoliday(){
+    let color
+}
