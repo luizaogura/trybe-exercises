@@ -1,0 +1,19 @@
+.titulo{
+    text-align: center;
+}
+
+.subtitulo{
+    text-align: center;
+}
+
+.sub{
+    font-size: smaller;
+    margin-top: -10px;
+}
+
+.artigo{
+    text-align: justify;
+    margin-left: 50px;
+    margin-right: 50px;
+    border-top: 1px solid black;
+}
